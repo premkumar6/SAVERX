@@ -1,0 +1,6 @@
+#config.py
+
+#REDCAP API TOKEN
+
+redcap_api_token = '3814EEA9FF90599C2FA94AE7690F1F09'
+dropbox_access_token = 'sl.BlrLD9xUdlLFFlhjbVM3hjwtxCW2pNr81pZzTFgSKpNwjbaQuE7RnPPVCffJ2eRu6xovq0FT2s-MWjtHrI7dQOguDbIHuWaat1DYrEoop-qVh5pnUPFGJw8I-A_IXUFsKn-9i9kYEqHHjdULlOetv0U'
